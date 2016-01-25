@@ -15,3 +15,4 @@ The result will be output into a csv file!
 ### contributions format
 - the fisrt non-empty line should be English title
 - the second non-empty line should be Chinese 
+- the contribution must be created by Word 2007 or later
