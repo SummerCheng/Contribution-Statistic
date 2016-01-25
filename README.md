@@ -10,6 +10,7 @@ The result will be output into a csv file!
 ### package
 - pandas
 - xlwt
+- docx2txt
 
 ### contributions format
 - the fisrt non-empty line should be English title
